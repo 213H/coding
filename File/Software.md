@@ -1,0 +1,67 @@
+Software
+
+*   VScode
+*   Jetbrain
+    *   pycharm
+    *   clion
+    *   idea
+*   Aimp
+*   Anaconda
+*   MySQL
+*   LibreOffice
+*   FileGee
+*   FreeFileSync
+*   GoodSync
+*   Quicker
+*   Notepad3
+*   HBuilder
+*   Rstudio
+*   Bandzip
+*   TeXstudio
+*   TeXmacs
+*   MySQL
+*   Terminial
+*   Adobe
+    *   Ps
+    *   Pr
+    *   Ae
+    *   Dw
+    *   Ai
+*   DEVcpp
+*   Blender
+*   TeXmacs
+*   NotepadPP
+*   Maxima
+*   Geogebra
+*   Drawio
+*   Audacity
+*   Windows Terminal
+    *   WSL
+    *   Powershell
+    *   cmd
+*   Arctime
+*   Quckier
+*   evernote
+*   auto hotkey
+*   uTools
+*   CCleaner
+*   geek uninstall
+*   aqiyi
+    *   播放器
+    *   轮播台
+*   Aloha Lite
+*   airdroid
+*   Maple comp.
+*   万彩
+    *   办公大师
+*   office tools
+*   坚果云
+*   飞书
+*   语雀
+*   蓝奏云
+*   花生壳
+*   MindMaster
+*   喵影工厂
+*   万兴
+    *   恢复专家
+    *   喵影
