@@ -12,7 +12,7 @@ A[workspace] --> B(add)
     G --> H(push)
     H --> I[remote repository]
 ```
-![alt](https://www.runoob.com/wp-content/uploads/2015/02/git-command.jpg)
+
 git init
 
 git config --global --list
@@ -40,6 +40,10 @@ git log
 \# comment
 
 ssh-keygen -t rsa
+
+git remote add name url
+git remote -v
+git remote remove name
 
 ## github
 ## gitee

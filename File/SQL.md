@@ -5,6 +5,7 @@ Structed Query Language
 ## MS SQL SERVER 2012
 ### install 
 默认实例 only one
+
 命名实例
 
 ### Transact-SQL
