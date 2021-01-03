@@ -112,7 +112,7 @@ SQL 中最重要的 DDL 语句:
     use myDatabase;
     insert into movies (ID,Code,actress,Title,Tags,Length,magnet)
         values
-        (1,'JUFE-016','香坂紗梨','密着して舐め尽くす むしゃぶり唾液痴女','中出 単体作品 淫語 巨乳 痴女 接吻',150,'https://0mag.net/!cZ6i')
+        (1,'2018-06-06','金秘书为何那样','김비서가 왜 그럴까','喜剧 / 爱情',60,'https://movie.douban.com/subject/30181455/')
 ---
     and or not
 ---
@@ -151,6 +151,7 @@ SQL 中最重要的 DDL 语句:
 
     -- LIMIT 3 //end
     -- LIMIT 6, 3 //jump 6 records
+    -- LIMIT 5 OFFSET 5 // 6 TO 10
     -- PAGE 1: 1 - 3
     -- PAGE 2: 4 - 6
     -- PAGE 3: 7 - 9
