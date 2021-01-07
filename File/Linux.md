@@ -77,6 +77,9 @@ q:不保存文件并退出vi 编辑
 |pwd|print working directory||
 |touch|new file||
 |sudo|superuserdo||
+|which|path of software||
+|clear|clear screen||
+|ps|process||
 ## WSL
 kali-win-kex
 传统模式：Linux命令kex或kex –win，具有全屏和窗口模式。

@@ -51,5 +51,11 @@ CascadingStyleSheets
 - style id
 - padding
 - margin
-- 
+- negative margin
+- different side padding padding-left
+- different side margin
+- clockwise notation padding padding: 20px, 30px, 40px, 40px
+- clockwise notation margin
+- attribute selector [attr = value] [type = 'radio']
+-  
 ## JS
