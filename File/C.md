@@ -111,6 +111,14 @@ limits.h float.h 类型大小限制
 \#define INT_MAX +32767
 printf() %d 转换说明 coversion specification
 
+### 常见用法
+- 多组输入  while(scanf("%d", &n) != EOF){}
+- 文件读取  while((c = getchar())!=EOF){}
+- 左右对齐  printf("%-4d", num);
+- 输入停止  while((c = getchar()) != '0' && c != EOF) {}
+
+
+
 *   预处理
     *   预处理器
         *   \# define 字符替换

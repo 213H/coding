@@ -60,26 +60,53 @@ q:不保存文件并退出vi 编辑
 
 |command|parameter|note|
 |:--|:--:|--:|
-|mkdir|new folder||
-|cd|change document||
-|ls|list||
-|dir|directory||
-|cp|copy||
-|rm|remove||
-||-r|recurive
-||-f|force
+|mkdir||make directory|
+|cd||change directory|
+||..||
+||/||
+||~|home|
+|ls||list|
+|dir||directory|
+|cp||copy|
+|mv||move|
+|rm||remove|
+||-r|recurive|
+||-f|force|
+|rmdir|remove directory||
 |gcc|||
 ||-g||
 ||-c||
 ||-o||
 |vi|||
-|cat|preclsview||
-|pwd|print working directory||
-|touch|new file||
-|sudo|superuserdo||
-|which|path of software||
-|clear|clear screen||
-|ps|process||
+|cat||concatenate|
+|pwd||print working directory|
+|touch||touch time/ new file|
+|sudo||superuserdo|
+|which||path of software|
+|clear||clear screen|
+|ps||process|
+|find|||
+|cmp||compare|
+|locate|||
+|wc||word count|
+|man|manual||
+|grep||string match|
+
+### pipe command
+
+ls -al /etc | less
+ls | sort
+output -> input
+
+## Shell
+
+chmod +x file 执行权限
+
+#!/usr/bin/bash
+
+variable var="value" #without whitespace
+${var}
+${#var} count chars
 ## WSL
 kali-win-kex
 传统模式：Linux命令kex或kex –win，具有全屏和窗口模式。

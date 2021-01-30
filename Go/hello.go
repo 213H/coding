@@ -20,11 +20,15 @@ func main() {
 	
 	var age int = 123
 	fmt.Println(age)
+	var tag bool = true
 	var str string = "hello"
 	fmt.Println(str)
 	smart := "hell"
 	height := 34
-	fmt.Println(height)
+	if tag {
+		fmt.Println(height)
+	}
+	
 	fmt.Println(smart)
 	
 	fmt.Println(math.Exp2(10))
@@ -45,7 +49,7 @@ func main() {
 	delete(numbers, "one")
 	fmt.Println(numbers)
 	
-	for i := 0; i < 4; i++ {
+	for i := 0; i < 2; i++ {
 		fmt.Println(i)
 	}
 	
@@ -71,7 +75,7 @@ func main() {
 	fmt.Println(newCat)
 	
 	var num myFloat = 3.4
-	num.show()
+	num.show()				//method
 }
 
 func do_math(x int, y int) (int, int){

@@ -57,5 +57,10 @@ CascadingStyleSheets
 - clockwise notation padding padding: 20px, 30px, 40px, 40px
 - clockwise notation margin
 - attribute selector [attr = value] [type = 'radio']
--  
+- absolute relative
+- body element
+- inherit style from body
+- prioritize style
+- override styles in subsequent css
+- override
 ## JS

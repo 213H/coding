@@ -6,7 +6,7 @@
 	(format t "Hello, Lisp world!") ; for this line only
 )
 ;; Two semicolons comment indicate that comment applies
-:: to the code that follows.
+;; to the code that follows.
 
 #||
 (load "d:\\Coding\\Lisp\\hello.lisp")

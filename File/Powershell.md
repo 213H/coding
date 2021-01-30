@@ -1,29 +1,27 @@
 cmd
 
-- dxdiag
 
 *   内部命令
-    *   C: c:
-    *   cd change directory .. 上级 cd \ 根目录 Tab补全 切换 cd file\file\file
+    *   cd  change directory .. Top \ root Tab complete
     *   copy
     *   type preview
     *   dir directory
-    *   ls
+    *   ls  list
     *   cls clear screen
-    *   ↑↓ last command
-    *   ren
-    *   md
+    *   ↑↓  last command
+    *   ren rename
+    *   md  make directory
     *   rem :: comment
     *   ctrl+c pause
     *   pause
     *   exit
     *   goto
-        *   goto part :part echo spring
+        *   goto label :label echo spring
     *   set
         *   /a 5+2 var=4/2
         *   /p var=input
     *   start
-        *   盘符，文件，文件夹，网址，程序
+        *   dirve, file, folder, web, program
         *   /min
         *   /max
         *   start "" "ab cd"
@@ -32,7 +30,7 @@ cmd
         *   sort a.txt > b.txt
     *   type 显示文本文件的内容 > 重定向
     *   /? help
-    *   echo output
+    *   echo print
     *   mode 自定义主题
     *   color
     *   hostname
@@ -45,6 +43,7 @@ cmd
         *   \-a 地址转IP
         *   [localhost](http://localhost) protol
     *   wget 获取资源
+    *   dxdiag
 *   变量
     *   set name=spring
     *   set name print
