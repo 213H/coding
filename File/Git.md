@@ -1,5 +1,7 @@
 ## git
-### distrbute 
+
+
+[Git](https://www.bilibili.com/video/BV1mb411n7Nw)
 
 ```mermaid
 graph LR

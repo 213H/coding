@@ -1,5 +1,9 @@
 C
 
+[C-program-language](../../Bookset/编程/C程序设计语言（第2版）.pdf)
+
+[C-primer-plus](../../Bookset/编程/C&#32;Primer&#32;Plus（第五版）.pdf)
+
 起源 Dennis Ritch  Ken Thompson 开发UNIX
 标准 1987 Brian Kernighan Dennis Ritchie
     *The C Programing Language*

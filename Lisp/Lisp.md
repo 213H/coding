@@ -1,3 +1,12 @@
+[lisp-video](https://www.bilibili.com/video/BV1KW411s7MG)
+
+[ansi-common-lisp](../../Bookset/编程/ANSI&#32;Common&#32;Lisp.pdf)
+
+[land-of-lisp](../../Bookset/编程/Land&#32;of&#32;Lisp.pdf)
+
+[lisp-v](https://www.bilibili.com/video/BV1Gz41187KG)
+
+```
 ;;;; Four semicolons used for a file header comment
 
 ;;; comment with three semicolons usually be a paragraph
@@ -15,3 +24,4 @@
 (pop a)
 (- 1 2)
 ||#
+```

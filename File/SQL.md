@@ -41,6 +41,8 @@ esec sp_helpdb database
 Oracle收购
 关系型数据库
 
+[mosh](bilibili.com/video/BV1UE41147KC)
+
 ### SQL DML 和 DDL
 可以把 SQL 分为两个部分：数据操作语言 (DML) 和 数据定义语言 (DDL)。
 SQL (结构化查询语言)是用于执行查询的语法。但是 SQL 语言也包含用于更新、插入和删除记录的语法。

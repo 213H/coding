@@ -9,6 +9,9 @@ MiKTeX fpTeX Windows
 DVI Device Independent
 
 ## LaTeX
+
+[lx](https://www.bilibili.com/video/BV15x411j7k6)
+
 Leslie Lamport
 
 LaTeX文档结构
