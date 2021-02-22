@@ -56,15 +56,18 @@ q:不保存文件并退出vi 编辑
 
 :e!放弃所有修改，从上次保存文件开始在编辑
 ```
-## 命令
+## Command
 
 |command|parameter|note|
 |:--|:--:|--:|
 |mkdir||make directory|
 |cd||change directory|
-||..||
-||/||
+||..|upper directory|
+||/|slash root|
+||\|back slash root|
 ||~|home|
+||.|present|
+||-|last|
 |ls||list|
 |dir||directory|
 |cp||copy|
@@ -72,7 +75,8 @@ q:不保存文件并退出vi 编辑
 |rm||remove|
 ||-r|recurive|
 ||-f|force|
-|rmdir|remove directory||
+|rmdir|remove [ empty] directory||
+||-p|recurive|
 |gcc|||
 ||-g||
 ||-c||
@@ -89,9 +93,12 @@ q:不保存文件并退出vi 编辑
 |cmp||compare|
 |locate|||
 |wc||word count|
-|man|manual||
+|man||manual|
 |grep||string match|
+|telnet|||
+|ifconfig|net config||
 
+tips: ls --help
 ### pipe command
 
 ls -al /etc | less
