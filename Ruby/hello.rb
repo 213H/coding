@@ -1,58 +1,93 @@
-include Math
+include Math	# include module
 
-print("Hello, Ruby world!\n")
-puts("Hello, Ruby world!")
-puts(sin(3.1415))
+# comment
 =begin
 Math Library
 =end
 
 
-# variable
-num = 123
+# use module
+puts("Hello, Ruby world!")
+puts(sin(3.1415))
+
+
+# data type
+num = 123_455_55
 alphabet = "abcdef"
 
+
+# array
+set = ["hello", "java", "python", "ruby"]
+puts(set[0])
+
+
 # struct
+human = Struct.new(:name, :nation)
+
+Mark = human.new
+Mark.name = "Mark"
+
+puts Mark.name
 
 # judge
-if 1 > 2 then
-	print("hp")
-end
-
-if 2 >= 2 then
+if num >= 2 then
 	puts("x")
 else
 	print("y")
 end
 
 # loop
-while 4 > 5
-	print("y")
+i = 10
+while i > 5 do
+	print(">")
+	i -= 1
 end
 
+# iterator 迭代器
 num = 3
 num.times {
 	print("h")
 }
 print("\n")
-# iterator 迭代器
+
 
 # define function
-def hello
-	print("Hello, Ruby world!\n")
+def method(a, b)
+	puts(a + b)
 end
-hello()
 
-# read library
-# require "min" # *.rb
-# hello()
+a = 2
+b = 4
+method(a, b)
 
-# array
-set = ["hello", "java", "python", "ruby"]
-puts(set[0])
-puts(set.size)
+# module
+module Hello
+	puts("Hello, Ruby world!")
+end
 
-# comment
-=begin
-   my soul
-=end
+
+# hash
+mouths = Hash.new("mouth")
+mouths = {1 => "Jar", 2 => "Feb"}
+
+
+# class & object
+
+class Man	# class/module name CONSTANT Capitalize
+	def initialize(id, name)	# initialize method
+		@cust_id = id
+		@cust_name = name
+	end
+	def myname()
+		puts("#@cust_name")
+	end
+	def myid()
+		puts("#@cust_id")
+	end
+end
+
+mark = Man.new("1", "Mark")
+
+mark.myname()
+mark.myid()
+

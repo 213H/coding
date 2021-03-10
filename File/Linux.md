@@ -1,16 +1,19 @@
 ## vim
 
-### 模式
+### Mode
 
-- 普通
-- 命令行
-- 插入
-- 选择
-- 可视
-- Ex
+- Normal 
+- Command-line  <kbd>:</kbd>   
+- Insert        <kbd>i</kbd>    <kbd>esc</kbd>
+- Replace       <kbd>R</kbd>
+- Select        
+  - Visual      <kbd>V</kbd>
+  - block       <kbd>Shift + V</kbd>
+  - line        <kbd>Ctrl + V</kbd>
+- Ex            <kbd>ex</kbd>
 
-#### 插入
-esc
+#### Insert
+
 - i pre
 - I line pre
 - a end
@@ -36,26 +39,6 @@ p cut paster
 
 y copy
 
-```进入编辑模式，按 o 进行编辑
-
-编辑结束，按ESC 键 跳到命令模式，然后输入退出命令：
-
-:w保存文件但不退出vi 编辑
-
-:w! 强制保存，不退出vi 编辑
-
-:w file将修改另存到file中，不退出vi 编辑
-
-:wq保存文件并退出vi 编辑
-
-:wq!强制保存文件并退出vi 编辑
-
-q:不保存文件并退出vi 编辑
-
-:q!不保存文件并强制退出vi 编辑
-
-:e!放弃所有修改，从上次保存文件开始在编辑
-```
 ## Command
 
 |command|parameter|note|
@@ -99,11 +82,7 @@ q:不保存文件并退出vi 编辑
 |ifconfig|net config||
 
 tips: ls --help
-### pipe command
 
-ls -al /etc | less
-ls | sort
-output -> input
 
 ## Shell
 
@@ -111,10 +90,38 @@ chmod +x file 执行权限
 
 #!/usr/bin/bash
 
+cat /etc/shells
+
+echo $SHELL
+
+chsh -s /bin/zsh
+
+### variable
+
 variable var="value" #without whitespace
 ${var}
 ${#var} count chars
+
+### I/O redirect
+
+echo hello > hello.txt
+
+cat < hello.txt
+
+cat < hello.txt > hello2.txt
+
+cat < hello.txt >> hello2.txt *append txt*
+
+### pipe command
+
+ls -al /etc | less
+ls | sort
+output -> input
+
+curl --head --slient baidu.com | grep -i content-length
+
 ## WSL
+```
 kali-win-kex
 传统模式：Linux命令kex或kex –win，具有全屏和窗口模式。
 
@@ -133,5 +140,6 @@ kali-win-kex
 
 kex -s
 kex --sound
+```
 
 sudo apt update && sudo apt upgrade

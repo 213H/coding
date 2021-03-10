@@ -59,3 +59,9 @@ cmd
 powershell
 
 - ctrl + ` Terminial boot
+- mkdir cd directory
+- vim   
+  - cd . > hello.java
+  - type nul > hello.java
+  - echo nul > hello.java
+- cat type

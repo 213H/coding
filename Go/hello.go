@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
+	"time"
 )
 
 type cat struct {
@@ -41,6 +42,32 @@ func main() {
 	b = append(b, 10)
 	fmt.Println(b)
 	
+	hashmap()
+	
+	forloop()
+	
+	whileloop()
+	
+	traversal()
+	
+	callfunc()
+	
+	pointer()
+	
+	structure()
+	
+	object()
+
+	times()
+}
+
+func do_math(x int, y int) (int, int){
+	return x + y, x * y	//mutilp return value
+}
+func add(n *int){
+	*n = *n + 1
+}
+func hashmap(){
 	numbers := make(map[string]int)//map[key]value
 	numbers["one"] = 1
 	numbers["two"] = 2
@@ -48,39 +75,43 @@ func main() {
 	fmt.Println(numbers)
 	delete(numbers, "one")
 	fmt.Println(numbers)
-	
+}
+func forloop(){
 	for i := 0; i < 2; i++ {
 		fmt.Println(i)
 	}
-	
+}
+func whileloop(){
 	j := 1
 	for j < 4 {//while loop
 		fmt.Println(j)
 		j++
 	}
-	
+}
+func traversal(){
+	a := [4] int {1, 2, 3, 4}
 	for k, v := range a {//traversal
 		fmt.Println(k, v)
 	}
-	
+}
+func callfunc(){
 	sum, product := do_math(4, 7)
 	fmt.Println(sum, product)
-	
+}
+func pointer(){
 	n := 0 //pointer
 	add(&n)
 	fmt.Println(n)
-	
+}
+func structure(){
 	newCat := cat{name: "Kitty", age: 23}// structure
 	newCat.age = 4
 	fmt.Println(newCat)
-	
+}
+func object(){
 	var num myFloat = 3.4
 	num.show()				//method
 }
-
-func do_math(x int, y int) (int, int){
-	return x + y, x * y
-}
-func add(n *int){
-	*n = *n + 1
+func times(){
+	fmt.Println(time.Now())
 }

@@ -39,4 +39,9 @@ func main(){
 	defer file.Close()
 
 	file.WriteString(time.Now().Local().String())
+
+	a := 45;
+	b := 66;
+	a, b = b, a;
+	fmt.Printf("a = %d, b = %d", a, b);
 }
