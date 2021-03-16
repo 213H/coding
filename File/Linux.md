@@ -12,18 +12,25 @@
   - line        <kbd>Ctrl + V</kbd>
 - Ex            <kbd>ex</kbd>
 
-#### Insert
+#### Vim command
 
-- i pre
-- I line pre
-- a end
+< operation> < motion>
+
+:split :vsplit  q->quit
+
+:w
+
+:q
+
+- i present char
+- I present line
+- a present end
 - A line end
-- o pre void line
+- o present void line
 - O end void line
-- s del 
+- s del char
 - S del line
 
-Del 
 d
 - 0 line pre
 - ^ line pre
@@ -34,12 +41,21 @@ d
 - gg doc pre
 - G doc end
 2d del No.2 line
+d3->  del 3 char right
+dd    present line
+4dd   ->4
+1 , 10 de
+1 , 10 m 12   paster
 
-p cut paster
+p     paster
 
-y copy
+y     copy
+yy    present line
+4yy   ->4
+1, 10 co 12
 
-## Command
+
+## Linux Command
 
 |command|parameter|note|
 |:--|:--:|--:|
@@ -96,7 +112,7 @@ echo $SHELL
 
 chsh -s /bin/zsh
 
-### variable
+### Variable
 
 variable var="value" #without whitespace
 ${var}
