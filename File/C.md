@@ -4,13 +4,13 @@ C
 
 [C-primer-plus](../../Bookset/编程/C&#32;Primer&#32;Plus（第五版）.pdf)
 
-起源 Dennis Ritch  Ken Thompson 开发UNIX
-标准 1987 Brian Kernighan Dennis Ritchie
-    *The C Programing Language*
-    标准库 由UNIX提供
-ANSI/ISO C C89/C90
-C99
-C11
+- 起源 Dennis Ritch  Ken Thompson 开发UNIX
+- 标准 1987 Brian Kernighan Dennis Ritchie
+    - *The C Programing Language*
+    - 标准库 由UNIX提供
+    - ANSI/ISO-C C89/C90
+    - C99
+    - C11
 
 - 定义程序的目标
 - 设计程序
@@ -28,7 +28,7 @@ LLVM Clang cc
 
 main函数 int main(void){}
 
-注释 // /**/
+comment // /**/
 
 declaration int num;
 
@@ -42,8 +42,8 @@ keyword identifier
 |taxRate|tax Rate|
 |_kcad|don't|
 赋值 num = 1;
-> lvalue
-> rvalue
+- lvalue
+-  rvalue
 
 printf("Hello"); actual argument
 printf("Hello\n"); escape sequence

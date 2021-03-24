@@ -10,29 +10,29 @@ DVI Device Independent
 
 ## LaTeX
 
-[lx](https://www.bilibili.com/video/BV15x411j7k6)
+[latex](https://www.bilibili.com/video/BV15x411j7k6)
 
-Leslie Lamport
+*Leslie Lamport*
 
 LaTeX文档结构
 
-~~导言区preamble~~
+- 导言区preamble
 \documentclass{}
 \usepackage{}
-~~全局设置命令~~
+- 全局设置命令
 %comment
 
-~~正文区~~
+- 正文区
 \begin{document}
 \end{document}
 
 ## Command
 
 terminal
-texdoc pkg-name ~~seek-help~~
+texdoc pkg-name
 \LaTeX
 
-\documentclass[options]{documentclass} ~~book, article,report,//标准文档类 {ctexart, ctexbook, ctexrep}, moderncv, beamer ~~
+\documentclass[options]{documentclass} 
 |:--|:--|
 |article|文章:科技论文，报告，说明文档|
 |report||

@@ -6,7 +6,7 @@
 
 echo file deleting . . .
 
-path=D:\BaiduNetdiskDownload\pipi奶御坂打包27套
+path=D:\BaiduNetdiskDownload
 
 for /r "%path%" %%a in (*)do del "%%a"
 

@@ -31,3 +31,5 @@
 (defvar *number* 0)
 
 (setf *number* 6)
+
+(defparameter *name* 'Mark)

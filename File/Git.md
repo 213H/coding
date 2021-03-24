@@ -19,7 +19,7 @@ git init
 
 git config --global --list
 
-git add ./*
+git add .
 add all
 
 git commint -m "message"
@@ -38,14 +38,14 @@ git status
 
 git log
 
-*.gitignore
-\# comment
+.gitignore
+
 
 ssh-keygen -t rsa
 
 git remote add name url
 git remote -v
-git remote remove name
+git remote remove repo
 
 ## github
 ## gitee

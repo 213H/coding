@@ -1,6 +1,6 @@
 @echo off
 
-path=D:\BaiduNetdiskDownload\pipi奶御坂打包27套
+path=D:\BaiduNetdiskDownload
 
 echo start rename files
 

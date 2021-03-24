@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/foundation/5.5.3/css/foundation.min.css">
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/foundation/5.5.3/js/foundation.min.js"></script>
+    <script src="https://cdn.staticfile.org/foundation/5.5.3/js/vendor/modernizr.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <ul class="tabs" data-tab="">
+        <li class="tab-title"><a href="#home" aria-selected="false" tabindex="-1">Home</a></li>
+        <li class="tab-title"><a href="#menu1" aria-selected="false" tabindex="-1">menu1</a></li>
+        <li class="tab-title active"><a href="#menu2" aria-selected="true" tabindex="0">menu2</a></li>
+        <li class="tab-title"><a href="#menu3" aria-selected="false" tabindex="-1">menu3</a></li>
+    </ul>
+    <div class="tabs-content">
+        <div class="content" id="home" aria-hidden="true" tabindex="-1">
+            <h3>looooo
+
+            </h3>
+            <p>
+                lslsslsl
+            </p>
+        </div>
+        <div class="content" id="menu1" aria-hidden="true" tabindex="-1">
+            <h3>34555
+                
+            </h3>
+            <p>
+                etrgtthg
+            </p>
+        </div>
+        <div class="content active" id="menu2" aria-hidden="false" tabindex="0">
+            <h3>324trgty3g
+                
+            </h3>
+            <p>
+                gegrergh
+            </p>
+        </div>
+        <div class="content" id="menu3" aria-hidden="true" tabindex="-1">
+            <h3>
+                aagnhnn
+            </h3>
+            <p>
+                htntrn
+            </p>
+        </div>
+
+    </div>
+    
+
+    <script>
+        $(document).ready(function(){
+            $(document).foundation();
+        })
+    </script>
+</body>
+</html>
