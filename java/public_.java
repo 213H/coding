@@ -17,18 +17,18 @@ class firendly{
 }
 public class public_{
     void change1(){
-        public__ pub = new public__;
+        public__ pub = new public__();
         pub.a = 12;
         System.out.println(pub.a);
     }
     void change2(){
-        private_ pri = new private_;
+        private_ pri = new private_();
     }
     void change3(){
-        protected_ pro = new protected_;
+        protected_ pro = new protected_();
         
     }
     void change4(){
-        firendly fir = new firendly;
+        firendly fir = new firendly();
     }
 }

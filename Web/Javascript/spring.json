@@ -1,8 +1,8 @@
 {
-	"sites":[
-		{"name": "菜鸟教程", "url": "https://www.runoob.com"},
-		{"name": "Google", "url": "https://www.google.com"},
-		{"name": "Apple", "url": "https://www.apple.com"},
-		{"struct":"union", "array": [1, 2, 3, 4, 5]}
+	"map":[
+		{"name": "Google", "account": "u/ug/139", "code": "0l"},
+		{"name": "Google", "account": "u/ug/139", "code": "0l"},
+		{"name": "Google", "account": "u/ug/139", "code": "0l"},
+		{"name": "Google", "account": "u/ug/139", "code": "0l"}
 	]
 }
