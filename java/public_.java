@@ -1,11 +1,14 @@
 
 // test5
-class private_{
-    private int a = 10;
+class public__{
+    public int a = 20;
 }
 
-class public__{
-    public int b = 20;
+class private_{
+    private int b = 10;
+    public void show(){
+        System.out.println(b);
+    }
 }
 
 class protected_{
@@ -16,19 +19,29 @@ class firendly{
     int d = 60;
 }
 public class public_{
-    void change1(){
+    public static void main(String[] args){
+        change1();
+        change2();
+        change3();
+        change4();
+    }
+    static void change1(){
         public__ pub = new public__();
         pub.a = 12;
         System.out.println(pub.a);
     }
-    void change2(){
+    static void change2(){
         private_ pri = new private_();
+        pri.show();
     }
-    void change3(){
+    static void change3(){
         protected_ pro = new protected_();
-        
+        pro.c = 41;
+        System.out.println(pro.c);
     }
-    void change4(){
+    static void change4(){
         firendly fir = new firendly();
+        fir.d = 77;
+        System.out.println(fir.d);
     }
 }
