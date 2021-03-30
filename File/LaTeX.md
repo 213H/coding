@@ -1,38 +1,39 @@
 ## TeX
 Donald Knuth 
-The art of computer pragraming
+*The art of computer pragraming*
 
 Technology TeX
-teTeX Unix/Linux
-MiKTeX fpTeX Windows
 
 DVI Device Independent
 
 ## LaTeX
 
+Leslie Lamport
+
 [latex](https://www.bilibili.com/video/BV15x411j7k6)
 
-*Leslie Lamport*
 
 LaTeX文档结构
 
 - 导言区preamble
-\documentclass{}
-\usepackage{}
+    - \documentclass{}
+    - \usepackage{}
 - 全局设置命令
-%comment
+- comment
+  - %
 
 - 正文区
-\begin{document}
-\end{document}
+    - \begin{document}
+    - \end{document}
 
 ## Command
 
-terminal
-texdoc pkg-name
 \LaTeX
 
+\command{parameter}[option]
+
 \documentclass[options]{documentclass} 
+
 |:--|:--|
 |article|文章:科技论文，报告，说明文档|
 |report||
@@ -56,18 +57,11 @@ texdoc pkg-name
 |openright, openany||
 
 
-\usepackage[options]{package-name}
+\usepackage[options]{package}
 
-\include{filename} ~~default .tex~~
+\include{filename}
 
 \includely{filename1, filename2,...}
-
-\usepackage{syntonly}
-\syntonly ~~no DVI PDF~~
-
-\TeX\ user ~~insert space~~
-
-\command{parameter}[option]
 
 \begin{environment name}{arguments}
 ...

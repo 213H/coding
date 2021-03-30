@@ -1,8 +1,10 @@
 ## SQL
+
 SQUEL SQL
 Structed Query Language
 
-## MS SQL SERVER 2012
+## MS SQL SERVER
+
 ### install 
 默认实例 unique
 
@@ -38,6 +40,7 @@ CCL
 esec sp_helpdb database
 
 ## MySQL
+
 Oracle收购
 关系型数据库
 
@@ -186,5 +189,7 @@ SQL 中最重要的 DDL 语句:
     JOIN order_statuses os
     ON o.status = os.order_status_id
 ## NoSQL
+
 非关系型数据库
+
 Redis key/value 哈希表

@@ -20,7 +20,6 @@ git init
 git config --global --list
 
 git add .
-add all
 
 git commint -m "message"
 

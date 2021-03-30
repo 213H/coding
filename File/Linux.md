@@ -112,7 +112,7 @@ echo $SHELL
 
 chsh -s /bin/zsh
 
-### Variable
+- Variable
 
 variable var="value" #without whitespace
 ${var}

@@ -1,7 +1,7 @@
 // test4
-public class class_{
+public class myclass{
     public static void main(String[] args){
-        stu s = new stu(201, "Mark", 100);
+        stu s = new stu(201, "chenhongliang", 100);
         s.num();
         s.name();
         s.exp();
