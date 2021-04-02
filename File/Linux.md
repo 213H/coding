@@ -12,7 +12,7 @@
   - line        <kbd>Ctrl + V</kbd>
 - Ex            <kbd>ex</kbd>
 
-#### Vim command
+### Vim command
 
 < operation> < motion>
 
@@ -158,4 +158,3 @@ kex -s
 kex --sound
 ```
 
-sudo apt update && sudo apt upgrade
