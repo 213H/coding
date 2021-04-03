@@ -1,7 +1,6 @@
-## git
+# Git
 
-
-[Git](https://www.bilibili.com/video/BV1mb411n7Nw)
+## graph
 
 ```mermaid
 graph LR
@@ -14,6 +13,8 @@ A[workspace] --> B(add)
     G --> H(push)
     H --> I[remote repository]
 ```
+
+## command
 
 git init
 
@@ -47,4 +48,5 @@ git remote -v
 git remote remove repo
 
 ## github
+
 ## gitee

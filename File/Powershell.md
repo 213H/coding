@@ -1,4 +1,4 @@
-cmd
+# cmd
 
 
 -   内部命令
@@ -54,7 +54,7 @@ cmd
     -   0 键盘输入 1输出cmd 2error输出
 
 
-powershell
+# PowerShell
 
 - ctrl + ` vscode boot 
 - mkdir cd directory

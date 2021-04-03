@@ -1,10 +1,5 @@
 ## Intro
 
-[C-program-language](../../Bookset/编程/C程序设计语言（第2版）.pdf)
-
-[C-primer-plus](../../Bookset/编程/C&#32;Primer&#32;Plus（第五版）.pdf)
-
-
 - Source Dennis Ritch  Ken Thompson 开发UNIX
 - Format 1987 Brian Kernighan Dennis Ritchie
     - *The C Programing Language*
@@ -151,3 +146,4 @@ LLVM Clang
         -   栈区
         -   堆区
     -   内存泄漏
+

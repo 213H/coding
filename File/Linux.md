@@ -112,7 +112,7 @@ echo $SHELL
 
 chsh -s /bin/zsh
 
-- Variable
+### Variable
 
 variable var="value" #without whitespace
 ${var}
@@ -137,24 +137,23 @@ output -> input
 curl --head --slient baidu.com | grep -i content-length
 
 ## WSL
+
+Windows Subsystem Linux
 ```
 kali-win-kex
-传统模式：Linux命令kex或kex –win，具有全屏和窗口模式。
 
-停止使用Linux命令kex –stop或kex –win –stop，退出子系统图形化界面。
+kex
 
-全屏或窗口模式切换中【F8】是唯一的子系统功能键，可退出全屏模式。
+kex stop
 
-进入超级用户模式的Linux命令为sudo kex或sudo kex –win
+F8  Full Screen
 
+sudo kex
 
-融合模式：运行Linux命令kex –sl、停止Linux命令kex –sl –stop
-进入超级用户模式的Linux命令sudo kex –sl
-
-传统模式中全屏状态带来不弱于物理系统的感受，但是由于环境限制，运行资源效率稍弱。
-融合模式中Linux和Windows程序对话框窗口遵守常规的层位关系，不存在双系统之间应用置顶现象。
+kex -sl
 
 kex -s
 kex --sound
+
 ```
 

@@ -4,14 +4,9 @@ Donald Knuth
 
 Technology TeX
 
-DVI Device Independent
-
 ## LaTeX
 
 Leslie Lamport
-
-[latex](https://www.bilibili.com/video/BV15x411j7k6)
-
 
 LaTeX文档结构
 
@@ -35,12 +30,13 @@ LaTeX文档结构
 \documentclass[options]{documentclass} 
 
 |:--|:--|
-|article|文章:科技论文，报告，说明文档|
+|article||
 |report||
 |book||
 |proc||
 |alidea||
 |minimal||
+
 \documentclass[11pt, twoside, a4paper]{article}
 
 |options|note|
