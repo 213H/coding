@@ -16,21 +16,19 @@ Markdown
     -   列表
         -   ul -
         -   ol 1.
-        -   嵌套 子列表Tab
     -   引用
         -   \>
     -   表格
         -   |head|head|head|
-        -   |:--:|:--|--:|
-        -   |com|com|com|
+            |:--:|:--|--:|
+            |com|com|com|
     -   链接
         -   [baidu]([https://www.baidu.com](https://www.baidu.com))
     -   图片
-        -   ![alt](http://p.ananas.chaoxing.com/star3/origin/7e131436e64893f0815a26b0e21fa185.png)
+        -   [![cKf7ZQ.jpg](https://z3.ax1x.com/2021/04/04/cKf7ZQ.jpg)](https://imgtu.com/i/cKf7ZQ)
     -   代码
         -   Tab
         -   ```code```
-        -   html
     -   space
         -   &ensp &#8194 一个
         -   &emsp &#8195 两个
