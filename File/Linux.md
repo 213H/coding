@@ -54,6 +54,12 @@ yy    present line
 4yy   ->4
 1, 10 co 12
 
+find
+/string up to down
+?string down to up
+/st...g
+/st*g
+<kbd>Shift</kbd>* string <- n -> N
 
 ## Linux Command
 
