@@ -59,6 +59,8 @@ func main() {
 	object()
 
 	times()
+
+	hello()
 }
 
 func do_math(x int, y int) (int, int){
@@ -114,4 +116,8 @@ func object(){
 }
 func times(){
 	fmt.Println(time.Now())
+}
+
+func hello(){
+	fmt.Println("My name is chenhongliang, my height is", 140 * 1.1, "cm and my weight is", 60 * 1.1)
 }

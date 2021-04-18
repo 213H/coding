@@ -1,5 +1,10 @@
 # Golang
 
+## Command
+
+go run prog.go
+
+go build prog.go    ->  prog.exe
 
 ## demo.go
 
