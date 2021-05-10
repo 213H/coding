@@ -3,7 +3,7 @@ abstract class student{
     int age;
     abstract void show();
 }
-
+// test10
 class college extends student {
     String dept = "Information Management";
     college(){

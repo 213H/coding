@@ -1,12 +1,13 @@
-import java.util.*;
+// test12
 
-// test3
-public class yanghui{
-    public static void main(String[] args){
+import java.util.*;
+class yanghui{
+    yanghui(){
         Scanner oj = new Scanner(System.in);
         int l = oj.nextInt();
-        int a[][] = new int[l][l+1];
+        int a[][] = new int[l][];
         for(int i = 0; i < l; i++){
+            a = new int[l][i+2];
             for(int j = 0; j < i + 2; j++){
                 a[i][j] = 0;
             }
@@ -25,9 +26,15 @@ public class yanghui{
             System.out.printf("\n");
         }
     }
-    public static void space(int a){
+    void space(int a){
         for(int i = 0; i < a; i++){
             System.out.printf(" ");
         }   
+    }
+}
+
+public class arr{
+    public static void main(String[] args){
+        yanghui obj = new yanghui();
     }
 }

@@ -34,11 +34,11 @@ func main() {
 	
 	fmt.Println(math.Exp2(10))
 	
-	a := [4] int {1, 2, 3, 4}//tuple
+	a := [4] int {1, 2, 3, 4}// tuple
 	a[3] = 9
 	fmt.Println(a)
 	
-	b := [] int {1, 2, 3}//切片
+	b := [] int {1, 2, 3}// slice
 	b = append(b, 10)
 	fmt.Println(b)
 	
@@ -64,13 +64,13 @@ func main() {
 }
 
 func do_math(x int, y int) (int, int){
-	return x + y, x * y	//mutilp return value
+	return x + y, x * y	// multiple return value
 }
 func add(n *int){
 	*n = *n + 1
 }
 func hashmap(){
-	numbers := make(map[string]int)//map[key]value
+	numbers := make(map[string]int)// map[key]value
 	numbers["one"] = 1
 	numbers["two"] = 2
 	numbers["three"] = 3
