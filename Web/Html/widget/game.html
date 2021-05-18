@@ -16,9 +16,12 @@
     <script>
 
         var myGamePiece;
+        var yellowPiece;
         function startGame(){
             myGamePiece = new component(30, 30, "red", 10, 120);
             myGameArea.start();
+            yellowPiece = new component(30, 30, "yellow", 10, 200);
+            yellowPiece.start();
         }
 
         var myGameArea = {
@@ -38,6 +41,8 @@
         function component(width, height, color, x, y){
             this.width = width;
             this.height = height;
+            this.speedX = 0;
+            this.speedY = 0;
             this.x = x;
             this.y = y;
             this.update = function(){
@@ -45,13 +50,38 @@
                 ctx.fillStyle = color;
                 ctx.fillRect(this.x, this.y, this.width, this.height);
             }
+            this.newPos = function(){
+                this.x += this.speedX;
+                this.y += this.speedY;
+            }
         }
         function updateGameArea(){
             myGameArea.clear();
-            myGamePiece.x += 1;
+            //myGamePiece.x += 1;
+            myGamePiece.newPos();
             myGamePiece.update();
+            yellowPiece.update();
+        }
+        function moveup(){
+            myGamePiece.speedY -= 1;
+        }
+        function movedown(){
+            myGamePiece.speedY += 1;
+        }
+        function moveleft(){
+            myGamePiece.speedX -= 1;
+        }
+        function moveright(){
+            myGamePiece.speedX += 1;
+        }
+        function stopmove(){
+            myGamePiece.speedX = 0;
+            myGamePiece.speedY = 0;
         }
     </script>
-    <p>The Canvassss</p>
+    <button onmousedown="moveup()" onmouseup="stopmove()">UP</button>
+    <button onmousedown="movedown()" onmouseup="stopmove()">DOWN</button>
+    <button onmousedown="moveleft()" onmouseup="stopmove()">LEFT</button>
+    <button onmousedown="moveright()" onmouseup="stopmove()">RIGHT</button>
 </body>
 </html>
