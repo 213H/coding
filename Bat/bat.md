@@ -1,7 +1,7 @@
 - command
 
     - echo [{on|off}] [message]
-    - @ 禁止回显 @[message]
+    - @ forbid echo @[message]
     - pause [message]
     - call [Drive:][Path] FileName [BatchParameters] [:lable] [arguments]
     - type [file] preview

@@ -14,3 +14,7 @@ live_loop :guit do
 end
 
 ```
+shortcuts
+```
+
+```

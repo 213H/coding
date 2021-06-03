@@ -6,9 +6,9 @@ Structed Query Language
 ## MS SQL SERVER
 
 ### install 
-默认实例 unique
+default instance    unique
 
-命名实例
+named instance
 
 ### Transact-SQL
 
@@ -46,7 +46,7 @@ Oracle收购
 
 [mosh](https://www.bilibili.com/video/BV1UE41147KC)
 
-### SQL DML 和 DDL
+### SQL DML && DDL
 可以把 SQL 分为两个部分：数据操作语言 (DML) 和 数据定义语言 (DDL)。
 SQL (结构化查询语言)是用于执行查询的语法。但是 SQL 语言也包含用于更新、插入和删除记录的语法。
 
@@ -119,7 +119,7 @@ SQL 中最重要的 DDL 语句:
         values
         (1,'2018-06-06','金秘书为何那样','김비서가 왜 그럴까','喜剧 / 爱情',60,'https://movie.douban.com/subject/30181455/')
 ---
-    and or not
+    Boolean
 ---
     select * 
     from customers
@@ -181,7 +181,7 @@ SQL 中最重要的 DDL 语句:
     JOIN employees m
         ON e.reports_id = m.employee_id
 
-    -- 多表连接
+    -- 多表连接 joins multiple table
     SELECT *
     FROM orders o
     JOIN customers c

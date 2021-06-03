@@ -1,7 +1,7 @@
 # cmd
 
 
--   内部命令
+-   internal
     -   cd  change directory
     -   copy
     -   type preview
@@ -24,34 +24,34 @@
         -   /min
         -   /max
         -   start "" "ab cd"
-    -   call 调用引用
-    -   sort 字符串排序
+    -   call
+    -   sort
         -   sort a.txt > b.txt
     -   /? help
     -   echo print
-    -   mode 自定义主题
+    -   mode theme
     -   color
     -   hostname
     -   ipconfig
--   外部命令
-    -   mstsc 远程桌面
+-   external
+    -   mstsc remote desk
     -   ping ping.exe
         -   icmp icmp-echo
         -   t 持续
-        -   a 地址转IP
+        -   a address to IP
         -   [localhost](http://localhost) protol
-    -   wget 获取资源
+    -   wget get resource
     -   dxdiag
--   变量
+-   variable
     -   set name=spring
     -   set name print
     -   set name= //clear variable
--   重定向
-    -   操作符> >> <
-        -   > 覆盖
-        -   >> 增加
-        -   < 读取
-    -   0 键盘输入 1输出cmd 2error输出
+-   redirect
+    -   operation > >> <
+        -   > overwrit
+        -   >> append
+        -   < read
+    -   0 keyboard-input 1 output 2 error-output
 
 
 # PowerShell

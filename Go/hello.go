@@ -12,7 +12,7 @@ type cat struct {
 }
 
 type myFloat float64
-func (n myFloat) show() {//method
+func (n myFloat) show() {	//method
 	fmt.Println(n)
 }
 
@@ -64,13 +64,13 @@ func main() {
 }
 
 func do_math(x int, y int) (int, int){
-	return x + y, x * y	// multiple return value
+	return x + y, x * y		// multiple return value
 }
 func add(n *int){
 	*n = *n + 1
 }
 func hashmap(){
-	numbers := make(map[string]int)// map[key]value
+	numbers := make(map[string]int)	// map[key]value
 	numbers["one"] = 1
 	numbers["two"] = 2
 	numbers["three"] = 3
@@ -85,14 +85,14 @@ func forloop(){
 }
 func whileloop(){
 	j := 1
-	for j < 4 {//while loop
+	for j < 4 {
 		fmt.Println(j)
 		j++
 	}
 }
 func traversal(){
 	a := [4] int {1, 2, 3, 4}
-	for k, v := range a {//traversal
+	for k, v := range a {	//traversal
 		fmt.Println(k, v)
 	}
 }
@@ -101,12 +101,12 @@ func callfunc(){
 	fmt.Println(sum, product)
 }
 func pointer(){
-	n := 0 //pointer
+	n := 0 	//pointer
 	add(&n)
 	fmt.Println(n)
 }
 func structure(){
-	newCat := cat{name: "Kitty", age: 23}// structure
+	newCat := cat{name: "Kitty", age: 23}	// structure
 	newCat.age = 4
 	fmt.Println(newCat)
 }

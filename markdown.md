@@ -30,15 +30,14 @@ Markdown
         -   Tab
         -   ```code```
     -   space
-        -   &ensp &#8194 一个
-        -   &emsp &#8195 两个
-        -   &nbsp &#160 不换行
+        -   &ensp &#8194
+        -   &emsp &#8195
+        -   &nbsp &#160
     -   公式
         -   $单行公式LaTeX$
         -   $$多行公式LaTeX$$
-    -   绘图 $TikZ$
+    -   绘图 $mermaid$
 -   $LaTeX$
--   $TikZ$
 
 
 ## graph

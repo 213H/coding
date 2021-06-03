@@ -8,12 +8,12 @@ Technology TeX
 
 Leslie Lamport
 
-LaTeX文档结构
+LaTeX document structure
 
-- 导言区preamble
+- preamble intro
     - \documentclass{}
     - \usepackage{}
-- 全局设置命令
+- global setting command
 - comment
   - %
 
@@ -62,3 +62,4 @@ LaTeX文档结构
 \begin{environment name}{arguments}
 ...
 \end{environment name}
+

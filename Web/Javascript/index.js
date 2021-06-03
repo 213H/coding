@@ -188,7 +188,7 @@ function Person(firstName, lastName, dob) {
     this.lastName = lastName;
     this.dob = dob;
 }
-//Instantiate object 实例化对象
+//Instantiate object
 const person1 = new Person('Mark', 'Chen', '1-5-2001');
 console.log(person1);
 console.log(person1.dob);
