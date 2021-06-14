@@ -26,6 +26,8 @@ git config --global --list
 
 git add .
 
+git add *
+
 git commint -m "message"
 
 git push
@@ -48,9 +50,12 @@ git log
 ssh-keygen -t rsa
 
 git remote add name url
+
 git remote -v
+
 git remote remove repo
 
 ## github
 
 ## gitee
+
