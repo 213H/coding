@@ -48,7 +48,7 @@ func main(){
 	}
 	elapsed := time.Since(start)
 	fmt.Printf("Took %s\n", elapsed)
-	var a int
+	//var a int
 	//fmt.Scanln(&a)
 	//fmt.Println(a)
 }
