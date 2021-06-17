@@ -1,4 +1,5 @@
 // test11
+// interface 接口
 interface area{
     double Area();
 }

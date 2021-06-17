@@ -10,6 +10,8 @@ AIKA
 
 爱泽有纱
 
+愛世くらら
+
 Alice Wayne 
 
 Ava Addams 
@@ -32,7 +34,8 @@ B
 
 白石茉莉奈 
 
-Bunny Colby/Nadya Nabakova
+Bunny Colby
+Nadya Nabakova
 
 本田岬 
 
@@ -62,7 +65,8 @@ Chessie Rae
 
 川村真矢 
 
-沖田美鈴(Okita Misuzu)
+沖田美鈴
+Okita Misuzu
 
 川上优
 
@@ -86,7 +90,7 @@ Diana Daniels
 
 Danika Mori 
 
-daddysgirl222-chaturbate 
+daddysgirl222 - chaturbate 
 
 大桥未久
 
@@ -228,9 +232,11 @@ larkin love
 
 濑名光莉 
 
-笠原诗织(上条司) 
+笠原诗织
+上条司
 
-Lena Anderson=Blaire Ivory
+Lena Anderson
+Blaire Ivory
 
 M
 
@@ -328,7 +334,8 @@ Shay Evans Gia Milan
 
 Samantha Flair 
 
-Skylar(Dylann) Vox 
+Skylar Vox 
+Dylann Vox
 
 Savannah Bond 
 
@@ -356,7 +363,9 @@ Savannah Bond
 
 天音亚莉西 
 
-石原莉奈 深田咏美
+石原莉奈 
+
+深田咏美
 
 三原穗花
 
@@ -484,7 +493,7 @@ Y
 
 音羽雷恩 
 
-柚木向日葵 
+柚月向日葵
 
 樱由罗 
 
@@ -502,15 +511,18 @@ Y
 
 月野里沙 
 
-伊吹彩（月岛舞香） 
+伊吹彩
+月岛舞香
 
 原千岁 
 
 羽生亚里沙  
 
-涼宮琴音 (白咲碧) 
+涼宮琴音
+白咲碧
 
-原花音（高冈美铃）
+原花音
+高冈美铃
 
 Z
 
@@ -540,5 +552,6 @@ Z
 
 真野优莉亚
 
-佐佐木优奈 奥村沙织
+佐佐木优奈
+奥村沙织
 

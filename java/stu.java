@@ -1,4 +1,5 @@
 // test6
+// 学生类 student class
 public class stu{
     public static void main(String[] args){
         student stu_ = new student();

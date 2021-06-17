@@ -21,8 +21,6 @@ Aisei Tenshi Love Mary: Akusei Jutai
 Shikoyaka Naru Toki mo Hameru Toki mo
 シコやかなるときもハメるときも
 
-Rennyuu Tales
-
 Gakuen Maria: Bakunyuu Teachers!
 学園まりあ ~爆乳ティーチャーズ ~
 
@@ -57,6 +55,21 @@ Araiya-san!: Ore to Aitsu ga Onnayu de!?
 
 Oujo & Onna Kishi W Do Gehin Roshutsu
 王女＆女騎士Wド下品露出
+
+Love x Holic: Miwaku no Otome to Hakudaku Kankei
+ラブホリック ~魅惑の乙女と白濁カンケイ~
+
+Ajisai no Chiru Koro ni
+紫陽花の散ル頃に
+
+Himawari wa Yoru ni Saku
+向日葵ハ夜ニ咲ク
+
+Yarichin Kateikyoushi Netori Houkoku
+ヤリチン家庭教師ネトリ報告
+
+Rennyuu Tales
+恋乳ているず
 ## Comic
 
 ## Game

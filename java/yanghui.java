@@ -1,6 +1,7 @@
 import java.util.*;
 
 // test3
+// 杨辉三角
 public class yanghui{
     public static void main(String[] args){
         Scanner oj = new Scanner(System.in);

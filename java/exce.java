@@ -1,5 +1,5 @@
 // test14
-
+// 创建异常类
 public class exce{
     public static void main(String[] args){
         try{

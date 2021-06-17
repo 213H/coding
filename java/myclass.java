@@ -1,4 +1,5 @@
 // test4
+// 创建类
 public class myclass{
     public static void main(String[] args){
         stu s = new stu(201, "chenhongliang", 100);

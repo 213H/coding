@@ -1,4 +1,5 @@
 // test18
+// awt多个控件
 import java.awt.*;
 import java.awt.event.*;
 

@@ -1,4 +1,5 @@
 // test19
+// 事件处理
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,4 +1,5 @@
 // test8
+// 继承
 class stu{
     String name;
     String num;

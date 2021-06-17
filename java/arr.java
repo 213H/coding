@@ -1,5 +1,5 @@
 // test12
-
+// 杨辉三角数组
 import java.util.*;
 class yanghui{
     yanghui(){

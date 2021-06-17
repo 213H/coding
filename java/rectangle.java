@@ -1,4 +1,5 @@
 // test9
+// 继承super()调用父类方法
 class graph{
     String name;
     int id = 10;

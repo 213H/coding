@@ -1,4 +1,5 @@
 // test17
+// awt控件
 import java.awt.*;
 import java.awt.event.*;
 

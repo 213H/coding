@@ -1,5 +1,5 @@
 // test7
-
+// constructor构造函数
 class stu{
     String name, num;
     int grade;

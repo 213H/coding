@@ -1,5 +1,5 @@
-
 // test5
+// 访问修饰符
 class test{
     public int a = 10;
     int b = 20;

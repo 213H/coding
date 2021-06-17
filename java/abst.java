@@ -1,9 +1,11 @@
+// test10
+// 抽象类型
 abstract class student{
     String name;
     int age;
     abstract void show();
 }
-// test10
+
 class college extends student {
     String dept = "Information Management";
     college(){

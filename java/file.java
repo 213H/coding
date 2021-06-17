@@ -1,4 +1,5 @@
 // test16
+// reader & writer
 import java.io.*;
 public class file{
     public static void main(String[] args){
