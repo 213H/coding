@@ -5,12 +5,12 @@ Rikujoubu Joshi wa Ore no Nama Onaho
 Master Piece
 
 Hachishaku Hachiwa Keraku Meguri: Igyou Kaikitan
-八尺八話快樂巡り異形怪奇譚
+八尺八話快樂巡り 異形怪奇譚
 
 Star Jewel
 
-Ore ga Kanojo o su Wake
-俺が姪(かのじょ)を○す理由(わけ)
+Ore ga Kanojo o \*su Wake
+俺が姪[かのじょ]を○す理由[わけ]
 
 Daraku Reijou
 堕落令嬢 
@@ -33,13 +33,14 @@ Victorian Maid Maria no Houshi
 Youkoso! Skebe Elf no Mori he
 ようこそ! スケベエルフの森へ
 
+Isekai Harem Monogatari
 異世界ハーレム物語
 
 Kyonyuu Princess Saimin
 巨乳プリンセス催眠
 
-Yarichin Kateikyoushi Netori Houkoku
-ヤリチン家庭教師ネトリ報告
+Yarichin Kateikyoushi Netori Houkoku: Dosukebe Kyonyuu Oyakodon
+ヤリチン家庭教師ネトリ報告~ドスケベ巨乳母娘丼~
 
 Overflow
 おーばーふろぉ
@@ -53,8 +54,8 @@ Ano Ko no Kawari ni Suki na Dake
 Araiya-san!: Ore to Aitsu ga Onnayu de!?
 洗い屋さん! ~俺とアイツが女湯で!?~
 
-Oujo & Onna Kishi W Do Gehin Roshutsu
-王女＆女騎士Wド下品露出
+Oujo & Onna Kishi W Dogehin Roshutsu: Chijoku no Misemono Dorei
+王女&女騎士Wド下品露出 ~恥辱の見世物奴隷~
 
 Love x Holic: Miwaku no Otome to Hakudaku Kankei
 ラブホリック ~魅惑の乙女と白濁カンケイ~
@@ -65,11 +66,23 @@ Ajisai no Chiru Koro ni
 Himawari wa Yoru ni Saku
 向日葵ハ夜ニ咲ク
 
-Yarichin Kateikyoushi Netori Houkoku
-ヤリチン家庭教師ネトリ報告
-
 Rennyuu Tales
 恋乳ているず
+
+Kuroinu ~ Kedakaki Seijo wa Hakudaku ni Somaru ~
+黒獣 ～気高き聖女は白濁に染まる～
+
+Energy Kyouka!!
+えなじぃキョーカ!!
+
+Kuro Gal ni Natta kara Shin yuu to Shite Mita
+黒ギャルになったから親友としてみた
+
+Kazoku: Haha to Shimai no Kyousei
+家属 ~母と姉妹の嬌声~
+
+Ano Danchi no Tsuma-tachi wa...
+あの団地の妻たちは...
 ## Comic
 
 ## Game

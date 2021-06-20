@@ -52,3 +52,5 @@
 -   万兴
     -   恢复专家
     -   喵影
+-   Atom Browser
+-   Naver Whale
