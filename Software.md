@@ -54,3 +54,5 @@
     -   喵影
 -   Atom Browser
 -   Naver Whale
+-   Aloha Borwser
+-   UPX Browser
