@@ -15,7 +15,6 @@
 -   Bandzip
 -   TeXstudio
 -   TeXmacs
--   MySQL
 -   Terminial
 -   Adobe
     -   Ps
@@ -25,7 +24,6 @@
     -   Ai
 -   DEVcpp
 -   Blender
--   TeXmacs
 -   Maxima
 -   Geogebra
 -   Drawio
@@ -56,3 +54,4 @@
 -   Naver Whale
 -   Aloha Borwser
 -   UPX Browser
+-   Chocolatey  Windows apt

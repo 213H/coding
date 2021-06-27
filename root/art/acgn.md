@@ -97,6 +97,11 @@ Tonari no Ie no Anette-san
 Anette-san to Liliana-san
 アネットさんとリリアナさん
 
+XL Joushi
+XL上司
+
+Shinsei Futanari Idol: Dekatama Kei! Shasei no Utage wa Chouzetsu Max
+新生 ふたなりアイドル でかたま系! ~射精の宴は超絶MAX~
 ## Comic
 
 ## Game
