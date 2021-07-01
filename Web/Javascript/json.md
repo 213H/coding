@@ -33,3 +33,15 @@ array 数组 值的 有序 集合
 
 string 字符串
 "New York City\nNYC\u002F"
+
+example
+```json
+{
+	"map":[
+		{"name": "Google", "account": "u/ug/139", "code": "0l"},
+		{"name": "Google", "account": "u/ug/139", "code": "0l"},
+		{"name": "Google", "account": "u/ug/139", "code": "0l"},
+		{"name": "Google", "account": "u/ug/139", "code": "0l"}
+	]
+}
+```
