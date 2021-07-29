@@ -37,6 +37,9 @@ func main() {
 ```
 
 ## Data Type
-
+```go
+var age int = 21
+fmt.Println(age)
+```
 
 ## IO

@@ -2,17 +2,17 @@
 
 math, biology, physics, chemistry
 
-### social 
+### social
 
-law, philosophy, psychology, economics, history, geography, policy
+law, philosophy, economics, history, geography, policy
 
-### arts
+### art
 
 art, music, literature, sports
 
-### humanities 
+### anthropology
 
-religion, language, education
+religion, language, psychology, education
 
 ### technology
 

@@ -55,3 +55,4 @@
 -   Aloha Borwser
 -   UPX Browser
 -   Chocolatey  Windows apt
+-   FnSync

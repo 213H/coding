@@ -102,6 +102,8 @@ XL上司
 
 Shinsei Futanari Idol: Dekatama Kei! Shasei no Utage wa Chouzetsu Max
 新生 ふたなりアイドル でかたま系! ~射精の宴は超絶MAX~
+
+ヌキどきッ！ ～天使と悪魔の榨精バトル～
 ## Comic
 
 ## Game
